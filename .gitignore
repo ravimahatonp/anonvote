@@ -1,7 +1,10 @@
 node_modules/
 dist/
-.env
 *.env.local
 .DS_Store
 coverage/
 .kiro/
+test_snapshots/
+target/
+.turbo/
+config.bat
